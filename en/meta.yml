@@ -1,12 +1,12 @@
-title: generic-theory-lat-long
+title: What are Latitude and Longitude?
 hero_image: images/banner.png
-description: generic-theory-lat-long description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: Explanation of corrdinates using latitude and longitude. 
+original_url: 
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
 listed: false
-ingredient: false
-interests: "jokes/pranks, music/sound"
-technologies: "javascript python scratch, lasers more lasers 3d printing wheels, pygame, python, Raspberry Pi, scratch, SenseHAT, Sense HAT"
+ingredient: true
+interests: "geography, space"
+technologies: "[]"
 steps:
-  - title: Step one
+  - title: What are Latitude and Longitude?
