@@ -1,0 +1,12 @@
+title: generic-theory-lat-long
+hero_image: images/banner.png
+description: generic-theory-lat-long description
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+theme: cc-prototype
+duration: 1 # 1, 2 or 3
+listed: false
+ingredient: false
+interests: "jokes/pranks, music/sound"
+technologies: "javascript python scratch, lasers more lasers 3d printing wheels, pygame, python, Raspberry Pi, scratch, SenseHAT, Sense HAT"
+steps:
+  - title: Step one
