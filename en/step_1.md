@@ -1,15 +1,11 @@
 ## Latitude and Longitude
 
-Latitude and Longitude are used to give coordinates to locations on the Earth's surface.
+Latitude and longitude are used to give coordinates to locations on the Earth's surface.
 
-**Latitude** is the North-South position and runs from 90 to -90. 0 is the Equator.
+Latitude indicates the position along the north-south axies, and can be any value between 90 and -90. 0 marks the equator.
 
-**Longitude** is the East-West position and runs from -180 to 180. 0 is the Prime Meridian which runs through Greenwich in London, UK.
+Longitude indicates the position along the east-west axis, and can be any value between -180 and 180. 0 marks the prime meridian, which runs through Greenwich in London, UK.
 
-Coordinates are usually given as **(latitude, longitude)**.
+Coordinates are given as **(latitude, longitude)**. The coordinates of the Royal Observatory at Greenwich are (51.48, 0). As you can see, the latitude (north-south) position is given first.
 
-The coordinates of the Royal Observatory at Greenwich are: (51.48, 0).
-
-Notice that the latitude (North-South) position is given first.
-
-You can look up the latitude and longitude for places at [latlong.net](http://www.latlong.net/).
+You can look up the latitude and longitude of places at [latlong.net](http://www.latlong.net/).
