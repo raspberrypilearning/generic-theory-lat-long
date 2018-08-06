@@ -1,11 +1,11 @@
-## خطوط العرض وخطوط الطول
+## Latitude and Longitude
 
-تُستخدم خطوط العرض وخطوط الطول لتحديد إحداثيات المواقع على سطح كوكب الأرض.
+Latitude and longitude are used to give coordinates to locations on the Earth's surface.
 
-يشير خط العرض إلى الموقع على الجانب الشمالي أو الجنوبي للكرة الأرضية، وتبدأ إحداثياته من 90 إلى -90. وعند الدرجة 0، يكون خط العرض الرئيسي (خط الاستواء).
+Latitude indicates the position along the north-south axies, and can be any value between 90 and -90. 0 marks the equator.
 
-أما خط الطول فيشير إلى الموقع على الجانب الشرقي أو الغربي للكرة الأرضية، وتبدأ إحداثياته من -180 إلى 180. وعند الدرجة 0، يكون خط الطول الرئيسي (خط غرينتش) الذي يمر في مدينة غرينتش في لندن، المملكة المتحدة.
+Longitude indicates the position along the east-west axis, and can be any value between -180 and 180. 0 marks the prime meridian, which runs through Greenwich in London, UK.
 
-تُعطى الإحداثيات في صورة **(latitude, longitude)**. إحداثيا المرصد الملكي في غرينتش هما (0 ,51.48). كما ترى، يُعطى موقع خط العرض (الشمال-الجنوب) أولًا.
+Coordinates are given as **(latitude, longitude)**. The coordinates of the Royal Observatory at Greenwich are (51.48, 0). As you can see, the latitude (north-south) position is given first.
 
-يمكنك البحث عن إحداثيات خط العرض وخط الطول للأماكن على [latlong.net](http://www.latlong.net/).
+You can look up the latitude and longitude of places at [latlong.net](http://www.latlong.net/).
