@@ -1,11 +1,11 @@
-## 纬度和经度
+## Latitude and Longitude
 
-纬度和经度用于提供地球表面位置的坐标。
+Latitude and longitude are used to give coordinates to locations on the Earth's surface.
 
-纬度表示沿南北轴的位置，可以是 90 到 -90 之间的任何数值。0 指赤道。
+Latitude indicates the position along the north-south axies, and can be any value between 90 and -90. 0 marks the equator.
 
-经度表示沿东西轴的位置，可以是 -180 到 180 之间的任何数值。0 指贯穿英国伦敦格林威治的本初子午线。
+Longitude indicates the position along the east-west axis, and can be any value between -180 and 180. 0 marks the prime meridian, which runs through Greenwich in London, UK.
 
-坐标以 **(纬度, 经度)** 的形式表示。格林威治皇家天文台的坐标为 (51.48, 0)。如你所见，首先给出的是纬度（南北）位置。
+Coordinates are given as **(latitude, longitude)**. The coordinates of the Royal Observatory at Greenwich are (51.48, 0). As you can see, the latitude (north-south) position is given first.
 
-你可以在 [latlong.net](http://www.latlong.net/) 查找地点的纬度和经度。
+You can look up the latitude and longitude of places at [latlong.net](http://www.latlong.net/).
