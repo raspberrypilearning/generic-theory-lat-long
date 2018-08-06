@@ -1,13 +1,15 @@
-title: ما المقصود بخط العرض وخط الطول؟
+---
+title: What are latitude and longitude?
 hero_image: images/banner.png
-description: شرح الإحداثيات باستخدام خط العرض وخط الطول
+description: Explanation of coordinates using latitude and longitude
 original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: "geography, space"
 technologies: "[]"
 steps:
-  - title: ما المقصود بخط العرض وخط الطول؟
+  - 
+    title: What are latitude and longitude?
