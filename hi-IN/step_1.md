@@ -1,11 +1,11 @@
-## अक्षांश और देशांतर
+## Latitude and Longitude
 
-अक्षांश और देशांतर का उपयोग पृथ्वी की सतह पर स्थानों के निर्देशांक बताने के लिए किया जाता है।
+Latitude and longitude are used to give coordinates to locations on the Earth's surface.
 
-अक्षांश उत्तर-दक्षिण अक्षों के साथ स्थिति दर्शाता है, और इसका मान 90 और -90 के बीच हो सकता है। 0 भूमध्य रेखा दर्शाता है।
+Latitude indicates the position along the north-south axies, and can be any value between 90 and -90. 0 marks the equator.
 
-देशांतर पूर्व-पश्चिम अक्षों के साथ स्थिति दर्शाता है, और इसका मान -180 और 180 के बीच हो सकता है। 0 मुख्य देशांतर रेखा दर्शाता है, जो लंदन, यूके में ग्रीनविच में से गुजरती है।
+Longitude indicates the position along the east-west axis, and can be any value between -180 and 180. 0 marks the prime meridian, which runs through Greenwich in London, UK.
 
-निर्देशांक **( अक्षांश, देशांतर)** के रूप में दर्शाए जाते हैं। ग्रीनविच में रॉयल ऑब्ज़र्वेटरी के निर्देशांक (51.48, 0) हैं। जैसा कि आप देख सकते हैं, अक्षांश (उत्तर-दक्षिण) स्थिति पहले दर्शाई जाती है।
+Coordinates are given as **(latitude, longitude)**. The coordinates of the Royal Observatory at Greenwich are (51.48, 0). As you can see, the latitude (north-south) position is given first.
 
-आप [latlong.net](http://www.latlong.net/) पर किसी स्थान के अक्षांश और देशांतर देख सकते हैं।
+You can look up the latitude and longitude of places at [latlong.net](http://www.latlong.net/).
