@@ -1,11 +1,11 @@
-## Latitude and Longitude
+## Breedtegraad en lengtegraad
 
-Latitude and longitude are used to give coordinates to locations on the Earth's surface.
+Lengtegraad (latitude) en breedtegraad (longitude) worden gebruikt om coördinaten te bepalen voor locaties op het aardoppervlak.
 
-Latitude indicates the position along the north-south axies, and can be any value between 90 and -90. 0 marks the equator.
+Breedtegraad geeft de positie aan langs de noord-zuid-assen en kan elke waarde tussen 90 en -90 zijn. 0 markeert de evenaar.
 
-Longitude indicates the position along the east-west axis, and can be any value between -180 and 180. 0 marks the prime meridian, which runs through Greenwich in London, UK.
+Lengtegraad geeft de positie langs de oost-west as aan en kan een waarde tussen -180 en 180 zijn. 0 markeert de hoofdmeridiaan, die loopt door Greenwich in Londen, VK.
 
-Coordinates are given as **(latitude, longitude)**. The coordinates of the Royal Observatory at Greenwich are (51.48, 0). As you can see, the latitude (north-south) position is given first.
+Coördinaten worden gegeven als **(latitude, longitude)**. De coördinaten van het Royal Observatory in Greenwich zijn (51.48, 0). Zoals je kunt zien, wordt eerst de breedtegraad (noord-zuid) positie gegeven.
 
-You can look up the latitude and longitude of places at [latlong.net](http://www.latlong.net/).
+Je kunt de breedte- en lengtegraad van plaatsen op [latlong.net](http://www.latlong.net/)opzoeken.
