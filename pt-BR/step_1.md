@@ -1,11 +1,11 @@
-## Latitude and Longitude
+## Latitude e Longitude
 
-Latitude and longitude are used to give coordinates to locations on the Earth's surface.
+A Latitude e a longitude são usadas para fornecer coordenadas geográficas para locais na superfície da Terra.
 
-Latitude indicates the position along the north-south axies, and can be any value between 90 and -90. 0 marks the equator.
+A latitude indica a posição ao longo dos eixos norte-sul e pode ser qualquer valor entre 90 e -90. O número 0 marca a linha do Equador.
 
-Longitude indicates the position along the east-west axis, and can be any value between -180 and 180. 0 marks the prime meridian, which runs through Greenwich in London, UK.
+Longitude indica a posição ao longo do eixo leste-oeste, e pode ser qualquer valor entre -180 e 180. 0 marca o meridiano de Greenwich, que atravessa Greenwich em Londres, Reino Unido.
 
-Coordinates are given as **(latitude, longitude)**. The coordinates of the Royal Observatory at Greenwich are (51.48, 0). As you can see, the latitude (north-south) position is given first.
+Coordenadas são dadas como ** (latitude, longitude)**. As coordenadas do Observatório Real de Greenwich são (51,48, 0). Como você pode ver, a posição de latitude (norte-sul) é dada primeiro.
 
-You can look up the latitude and longitude of places at [latlong.net](http://www.latlong.net/).
+Você pode procurar a latitude e a longitude dos lugares em [ latlong.net](http://www.latlong.net/).
