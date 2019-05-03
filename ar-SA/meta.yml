@@ -1,7 +1,7 @@
 ---
-title: What are latitude and longitude?
+title: ما المقصود بخط العرض وخط الطول؟
 hero_image: images/banner.png
-description: Explanation of coordinates using latitude and longitude
+description: شرح الإحداثيات باستخدام خط العرض وخط الطول
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: "geography, space"
 technologies: "[]"
 steps:
   - 
-    title: What are latitude and longitude?
+    title: ما المقصود بخط العرض وخط الطول؟
