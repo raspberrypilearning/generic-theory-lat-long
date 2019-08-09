@@ -1,11 +1,11 @@
-## Latitude and Longitude
+## Breddegrad og lengdegrad
 
-Latitude and longitude are used to give coordinates to locations on the Earth's surface.
+Breddegrad og lengdegrad brukes til å angi koordinater til steder på jordens overflate.
 
-Latitude indicates the position along the north-south axies, and can be any value between 90 and -90. 0 marks the equator.
+Breddegrad indikerer posisjonen langs nord-sør aksen, og kan være en verdi mellom 90 og -90. 0 markerer ekvator.
 
-Longitude indicates the position along the east-west axis, and can be any value between -180 and 180. 0 marks the prime meridian, which runs through Greenwich in London, UK.
+Lengdegrad indikerer posisjonen langs øst-vest aksen, og kan være en verdi mellom -180 og 180. 0 markerer nullmeridianen, som går gjennom Greenwich i London, Storbritannia.
 
-Coordinates are given as **(latitude, longitude)**. The coordinates of the Royal Observatory at Greenwich are (51.48, 0). As you can see, the latitude (north-south) position is given first.
+Koordinater oppgis som **(breddegrad, lengdegrad)**. Koordinatene til Royal Observatory i Greenwich er (51,48, 0). Som du ser, oppgis breddegrad (nord-sør) posisjonen først.
 
-You can look up the latitude and longitude of places at [latlong.net](http://www.latlong.net/).
+Du kan slå opp bredde- og lengdegrad på steder på [latlong.net](http://www.latlong.net/).
