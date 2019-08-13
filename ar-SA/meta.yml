@@ -1,9 +1,10 @@
+---
 title: ما المقصود بخط العرض وخط الطول؟
 hero_image: images/banner.png
 description: شرح الإحداثيات باستخدام خط العرض وخط الطول
 original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
 ingredient: true
 copyedit: true
