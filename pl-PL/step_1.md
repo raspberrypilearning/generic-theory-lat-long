@@ -1,11 +1,11 @@
-## Latitude and Longitude
+## Szerokość i długość geograficzna
 
-Latitude and longitude are used to give coordinates to locations on the Earth's surface.
+Szerokość i długość geograficzna służą do podawania współrzędnych miejsc na powierzchni Ziemi.
 
-Latitude indicates the position along the north-south axies, and can be any value between 90 and -90. 0 marks the equator.
+Szerokość geograficzna wskazuje pozycję wzdłuż osi północ-południe i może być dowolną wartością między 90 a -90. 0 oznacza równik.
 
-Longitude indicates the position along the east-west axis, and can be any value between -180 and 180. 0 marks the prime meridian, which runs through Greenwich in London, UK.
+Długość geograficzna oznacza pozycję wzdłuż osi wschód-zachód i może wynosić dowolną wartość od -180 do 180. 0 oznacza główny południk, który biegnie przez Greenwich w Londynie w Wielkiej Brytanii.
 
-Coordinates are given as **(latitude, longitude)**. The coordinates of the Royal Observatory at Greenwich are (51.48, 0). As you can see, the latitude (north-south) position is given first.
+Współrzędne są podane jako **(szerokość geograficzna, długość geograficzna)**. Współrzędne Królewskiego Obserwatorium w Greenwich to (51.48, 0). Jak widać, pozycja szerokości geograficznej (północ-południe) jest podana jako pierwsza.
 
-You can look up the latitude and longitude of places at [latlong.net](http://www.latlong.net/).
+Możesz sprawdzić szerokość i długość geograficzną dowolnego miejsca na [latlong.net](http://www.latlong.net/).
