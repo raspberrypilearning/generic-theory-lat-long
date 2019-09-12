@@ -1,11 +1,11 @@
-## Latitude and Longitude
+## Latitudinea și longitudinea
 
-Latitude and longitude are used to give coordinates to locations on the Earth's surface.
+Latitudinea și longitudinea sunt folosite pentru a da coordonate locațiilor de pe suprafața Pământului.
 
-Latitude indicates the position along the north-south axies, and can be any value between 90 and -90. 0 marks the equator.
+Latitudinea indică poziția de-a lungul axei nord-sud și poate avea orice valoare între 90 și -90. 0 marchează ecuatorul.
 
-Longitude indicates the position along the east-west axis, and can be any value between -180 and 180. 0 marks the prime meridian, which runs through Greenwich in London, UK.
+Longitudinea indică poziția de-a lungul axei est-vest și poate avea orice valoare între -180 și 180. 0 marchează meridianul principal, care trece prin Greenwich, Londra, Marea Britanie.
 
-Coordinates are given as **(latitude, longitude)**. The coordinates of the Royal Observatory at Greenwich are (51.48, 0). As you can see, the latitude (north-south) position is given first.
+Coordonatele sunt date ca **(latitudine, longitudine)**. Coordonatele Observatorului Regal de la Greenwich sunt (51,48, 0). După cum poți vedea, poziția latitudinii (nord-sud) este dată mai întâi.
 
-You can look up the latitude and longitude of places at [latlong.net](http://www.latlong.net/).
+Poți căuta latitudinea și longitudinea locațiilor la [latlong.net](http://www.latlong.net/).
