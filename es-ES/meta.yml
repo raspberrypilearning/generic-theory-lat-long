@@ -1,10 +1,10 @@
 ---
-title: What are latitude and longitude?
+title: '¿Qué son la latitud y la longitud?'
 hero_image: images/banner.png
-description: Explanation of coordinates using latitude and longitude
+description: Explicación de coordenadas usando latitud y longitud
 original_url:
 theme: cc-prototype
-duration: 1
+duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
@@ -12,4 +12,4 @@ interests: "geography, space"
 technologies: "[]"
 steps:
   - 
-    title: What are latitude and longitude?
+    title: '¿Qué son la latitud y la longitud?'
