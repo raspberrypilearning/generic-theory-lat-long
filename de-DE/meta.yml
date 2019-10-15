@@ -1,7 +1,7 @@
 ---
-title: What are latitude and longitude?
+title: Was sind Breiten- und Längengrad?
 hero_image: images/banner.png
-description: Explanation of coordinates using latitude and longitude
+description: Erklärung der Koordinaten mit Breiten- und Längengrad
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -12,4 +12,4 @@ interests: "geography, space"
 technologies: "[]"
 steps:
   - 
-    title: What are latitude and longitude?
+    title: Was sind Breiten- und Längengrad?
