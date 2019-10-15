@@ -1,11 +1,11 @@
-## Latitude and Longitude
+## Breiten-und Längengrad
 
-Latitude and longitude are used to give coordinates to locations on the Earth's surface.
+Breiten- und Längengrad werden verwendet, um Koordinaten für Orte an der Erdoberfläche anzugeben.
 
-Latitude indicates the position along the north-south axies, and can be any value between 90 and -90. 0 marks the equator.
+Der Breitengrad gibt die Position entlang der Nord-Süd-Achse an und kann einen Wert zwischen 90 und -90 haben. 0 markiert den Äquator.
 
-Longitude indicates the position along the east-west axis, and can be any value between -180 and 180. 0 marks the prime meridian, which runs through Greenwich in London, UK.
+Der Längengrad gibt die Position entlang der Ost-West-Achse an und kann einen beliebigen Wert zwischen -180 und 180 annehmen. 0 markiert den Nullmeridian, der durch Greenwich in London, Großbritannien, verläuft.
 
-Coordinates are given as **(latitude, longitude)**. The coordinates of the Royal Observatory at Greenwich are (51.48, 0). As you can see, the latitude (north-south) position is given first.
+Koordinaten werden als **(Breite, Länge)** angegeben. Die Koordinaten des Royal Observatory in Greenwich sind (51.48, 0). Wie du sehen kannst, wird zuerst die geografische Breite (Nord-Süd) angegeben.
 
-You can look up the latitude and longitude of places at [latlong.net](http://www.latlong.net/).
+Du kannst den Breiten- und Längengrad von Orten auf [latlong.net](http://www.latlong.net/) nachschlagen.
