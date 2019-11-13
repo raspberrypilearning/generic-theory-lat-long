@@ -1,11 +1,11 @@
-## Latitude and Longitude
+## 위도와 경도
 
-Latitude and longitude are used to give coordinates to locations on the Earth's surface.
+위도와 경도는 지표면의 위치에 좌표를 부여하는 데 사용됩니다.
 
-Latitude indicates the position along the north-south axies, and can be any value between 90 and -90. 0 marks the equator.
+위도는 남북 축에 따른 위치를 나타내며 90에서 -90 사이의 값이 될 수 있습니다. 0은 적도를 나타냅니다.
 
-Longitude indicates the position along the east-west axis, and can be any value between -180 and 180. 0 marks the prime meridian, which runs through Greenwich in London, UK.
+경도는 동서 축의 위치를 ​​나타내며 -180과 180 사이의 값이 될 수 있습니다. 0은 영국 런던의 그리니치를 통과하는 본초 자오선을 나타냅니다.
 
-Coordinates are given as **(latitude, longitude)**. The coordinates of the Royal Observatory at Greenwich are (51.48, 0). As you can see, the latitude (north-south) position is given first.
+좌표는 **(위도, 경도)**로 표시됩니다. 그리니치에있는 왕립 천문대의 좌표는 (51.48, 0)입니다. 보시다시피, 위도 (남-북 위치) 가 먼저 주어집니다.
 
-You can look up the latitude and longitude of places at [latlong.net](http://www.latlong.net/).
+[latlong.net에서 궁금한 장소의 위도와 경도를 볼 수 있습니다](http://www.latlong.net/).
