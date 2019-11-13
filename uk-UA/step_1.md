@@ -1,11 +1,11 @@
-## Latitude and Longitude
+## Широта і довгота
 
-Latitude and longitude are used to give coordinates to locations on the Earth's surface.
+Широта та довгота використовуються для визначення координат місць на поверхні Землі.
 
-Latitude indicates the position along the north-south axies, and can be any value between 90 and -90. 0 marks the equator.
+Широта вказує положення вздовж осі північ-південь і може бути будь-яким значенням від 90 до -90. Значення 0 відповідає екватору.
 
-Longitude indicates the position along the east-west axis, and can be any value between -180 and 180. 0 marks the prime meridian, which runs through Greenwich in London, UK.
+Довгота вказує положення вздовж осі схід-захід і може бути будь-яким значенням від -180 до 180. Значення 0 відповідає головному меридіану, який проходить через Грінвіч у Лондоні, Великобританія.
 
-Coordinates are given as **(latitude, longitude)**. The coordinates of the Royal Observatory at Greenwich are (51.48, 0). As you can see, the latitude (north-south) position is given first.
+Координати задаються як **(широта, довгота)**. Координати Королівської Обсерваторії в Грінвічі (51.48, 0). Як бачиш, широта (північ-південь) вказується першою.
 
-You can look up the latitude and longitude of places at [latlong.net](http://www.latlong.net/).
+Ти можеш знайти широту і довготу різних місць на [latlong.net](http://www.latlong.net/).
