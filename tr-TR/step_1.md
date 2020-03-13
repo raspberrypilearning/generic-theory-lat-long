@@ -1,11 +1,11 @@
-## Latitude and Longitude
+## Enlem ve Boylam
 
-Latitude and longitude are used to give coordinates to locations on the Earth's surface.
+Enlem ve boylam, Dünya yüzeyindeki konumların koordinatlarını vermek için kullanılır.
 
-Latitude indicates the position along the north-south axies, and can be any value between 90 and -90. 0 marks the equator.
+Enlem, kuzey-güney eksenleri arasındaki konumu gösterir ve 90 ile -90 arasındaki herhangi bir değer olabilir. 0 ekvatoru ifade eder.
 
-Longitude indicates the position along the east-west axis, and can be any value between -180 and 180. 0 marks the prime meridian, which runs through Greenwich in London, UK.
+Boylam, doğu-batı ekseni üzerindeki konumunu gösterir ve -180 ile 180 arasında herhangi bir değer olabilir. 0 değeri, Londra Greenwich'ten geçen başlangıç meridyenini ifade eder.
 
-Coordinates are given as **(latitude, longitude)**. The coordinates of the Royal Observatory at Greenwich are (51.48, 0). As you can see, the latitude (north-south) position is given first.
+Koordinatlar **(enlem, boylam)** olarak verilir. Greenwich'teki Kraliyet Gözlemevi koordinatları: (51.48, 0) şeklindedir. Gördüğünüz gibi ilk önce enlem (kuzey-güney) konumu veriliyor.
 
-You can look up the latitude and longitude of places at [latlong.net](http://www.latlong.net/).
+Merak ettiğiniz yerlerin enlem ve boylamlarını [latlong.net](http://www.latlong.net/) adresinden bulabilirsiniz.
