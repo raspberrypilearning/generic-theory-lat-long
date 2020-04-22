@@ -1,9 +1,10 @@
+---
 title: 什么是纬度和经度？
 hero_image: images/banner.png
-description: 使用纬度和经度来解释坐标
+description: 使用纬度和经度来表达坐标
 original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
