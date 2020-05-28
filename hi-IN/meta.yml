@@ -1,7 +1,7 @@
 ---
-title: What are latitude and longitude?
+title: अक्षांश और देशांतर क्या हैं?
 hero_image: images/banner.png
-description: Explanation of coordinates using latitude and longitude
+description: अक्षांश और देशांतर का उपयोग करते हुए निर्देशांक की व्याख्या
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -12,4 +12,4 @@ interests: "geography, space"
 technologies: "[]"
 steps:
   - 
-    title: What are latitude and longitude?
+    title: अक्षांश और देशांतर क्या हैं?
