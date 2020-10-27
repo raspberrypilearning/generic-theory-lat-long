@@ -1,11 +1,11 @@
-## Latitude and Longitude
+## 緯度と経度
 
-Latitude and longitude are used to give coordinates to locations on the Earth's surface.
+緯度と経度は、地球表面上の位置に座標を与えるために使用されます。
 
-Latitude indicates the position along the north-south axies, and can be any value between 90 and -90. 0 marks the equator.
+緯度は南北軸に沿った位置を示し、90と-90の間の値になります。 0は赤道を示します。
 
-Longitude indicates the position along the east-west axis, and can be any value between -180 and 180. 0 marks the prime meridian, which runs through Greenwich in London, UK.
+経度は東西軸に沿った位置を示し、-180〜180の間の値になります。0はイギリス ロンドンのグリニッジ天文台を通る本初子午線を示します。
 
-Coordinates are given as **(latitude, longitude)**. The coordinates of the Royal Observatory at Greenwich are (51.48, 0). As you can see, the latitude (north-south) position is given first.
+座標は **(緯度, 経度)** のように表されます。 グリニッジ天文台の座標は(51.48, 0)です。 お分かりのとおり、緯​​度(南北の位置)が先に書かれます。
 
-You can look up the latitude and longitude of places at [latlong.net](http://www.latlong.net/).
+いろんな場所の緯度と経度を [latlong.net](http://www.latlong.net/) で調べることができます。
